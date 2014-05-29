@@ -1,0 +1,58 @@
+<PXML xmlns="http://openpandora.org/namespaces/PXML">
+<package id="RainyDay">
+<version major="0" minor="0" release="1" build="1"/>
+<author name="Astolat Creations" email="astolatcreations.yt@gmail.com" website="http://www.youtube.com/user/AstolatCreations"/>
+<titles>
+<title lang="en_US">Rainy Day</title>
+</titles>
+<descriptions>
+<description lang="en_US">"Rainy Day - Alpha Preview" is a very short demo of a 2D
+platform game currently in development. It's purpose is
+to give you a glimpse of what the final game will look
+like. I hope you will all enjoy it and look forward to 
+the final game.</description>
+</descriptions>
+<icon src="icon.png"/>
+</package>
+<application id="RainyDay">
+<exec command="RainyDay"/>
+<version major="0" minor="0" release="1" build="1"/>
+<author name="Astolat Creations" website="http://www.youtube.com/user/AstolatCreations"/>
+<titles>
+<title lang="en_US">Rainy Day</title>
+</titles>
+<title lang="en_US">Rainy Day</title>
+<!--
+Extra block for compatibility with OS versions before HF6
+-->
+<descriptions>
+<description lang="en_US">"Rainy Day - Alpha Preview" is a very short demo of a 2D
+platform game currently in development. It's purpose is
+to give you a glimpse of what the final game will look
+like. I hope you will all enjoy it and look forward to 
+the final game.</description>
+</descriptions>
+<description lang="en_US">"Rainy Day - Alpha Preview" is a very short demo of a 2D
+platform game currently in development. It's purpose is
+to give you a glimpse of what the final game will look
+like. I hope you will all enjoy it and look forward to 
+the final game.</description>
+<!--
+Extra block for compatibility with OS versions before HF6
+-->
+<icon src="icon.png"/>
+<licenses>
+<license name="GPLv3" url="http://www.gnu.org/licenses/gpl.html" sourcecodeurl="http://www.youtube.com/user/AstolatCreations"/>
+</licenses>
+<previewpics>
+<pic src="./previews/Screen1.png"/>
+<pic src="./previews/Screen2.png"/>
+</previewpics>
+<info name="Rainy Day Readme" type="text/plain" src="Readme.txt"/>
+<categories>
+<category name="Game">
+<subcategory name="ActionGame"/>
+</category>
+</categories>
+</application>
+</PXML>

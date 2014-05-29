@@ -1,0 +1,4 @@
+Moth=
+"I'm the tutorial moth!"
+"I will help you on your quest!"
+"But for now I'm just waiting here... doing nothing..."

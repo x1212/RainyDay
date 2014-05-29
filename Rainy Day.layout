@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="W32 Release" />
+	<File name="..\PenjinBase\AnimatedParticle.cpp" open="0" top="0" tabpos="47">
+		<Cursor position="965" topLine="13" />
+	</File>
+	<File name="..\PenjinBase\AnimatedSprite.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="..\PenjinBase\AnimatedSprite.h" open="1" top="0" tabpos="24">
+		<Cursor position="7408" topLine="142" />
+	</File>
+	<File name="..\PenjinBase\CollisionRegion.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="530" topLine="183" />
+	</File>
+	<File name="..\PenjinBase\CollisionRegion.h" open="0" top="0" tabpos="12">
+		<Cursor position="978" topLine="181" />
+	</File>
+	<File name="..\PenjinBase\Emitter.cpp" open="1" top="0" tabpos="21">
+		<Cursor position="5587" topLine="196" />
+	</File>
+	<File name="..\PenjinBase\Engine.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="10859" topLine="388" />
+	</File>
+	<File name="..\PenjinBase\ErrorHandler.h" open="0" top="0" tabpos="12">
+		<Cursor position="1418" topLine="31" />
+	</File>
+	<File name="..\PenjinBase\Image.h" open="0" top="0" tabpos="44">
+		<Cursor position="12324" topLine="250" />
+	</File>
+	<File name="..\PenjinBase\Line.h" open="0" top="0" tabpos="20">
+		<Cursor position="1204" topLine="20" />
+	</File>
+	<File name="..\PenjinBase\Music.cpp" open="0" top="0" tabpos="14">
+		<Cursor position="871" topLine="95" />
+	</File>
+	<File name="..\PenjinBase\Music.h" open="0" top="0" tabpos="15">
+		<Cursor position="1269" topLine="26" />
+	</File>
+	<File name="..\PenjinBase\Parser.h" open="0" top="0" tabpos="11">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="..\PenjinBase\PenjinIncludes.h" open="0" top="0" tabpos="15">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="..\PenjinBase\PenjinStates.h" open="0" top="0" tabpos="26">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="..\PenjinBase\PenjinTypes.h" open="0" top="0" tabpos="27">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="..\PenjinBase\Rectangle.h" open="0" top="0" tabpos="7">
+		<Cursor position="1627" topLine="56" />
+	</File>
+	<File name="..\PenjinBase\Sound.cpp" open="0" top="0" tabpos="17">
+		<Cursor position="1722" topLine="69" />
+	</File>
+	<File name="..\PenjinBase\Sound.h" open="0" top="0" tabpos="16">
+		<Cursor position="2510" topLine="26" />
+	</File>
+	<File name="..\PenjinBase\SurfaceCache.cpp" open="1" top="0" tabpos="29">
+		<Cursor position="872" topLine="42" />
+	</File>
+	<File name="..\PenjinBase\SurfaceCache.h" open="1" top="0" tabpos="27">
+		<Cursor position="1509" topLine="4" />
+	</File>
+	<File name="..\PenjinBase\Text.h" open="0" top="0" tabpos="6">
+		<Cursor position="5707" topLine="99" />
+	</File>
+	<File name="..\PenjinBase\Timer.h" open="1" top="0" tabpos="31">
+		<Cursor position="2286" topLine="68" />
+	</File>
+	<File name="..\PenjinBase\Variable.h" open="0" top="0" tabpos="17">
+		<Cursor position="2024" topLine="62" />
+	</File>
+	<File name="..\PenjinBase\Vector2df.h" open="0" top="0" tabpos="21">
+		<Cursor position="3230" topLine="80" />
+	</File>
+	<File name="..\PenjinBase\Vector2di.h" open="1" top="0" tabpos="30">
+		<Cursor position="1099" topLine="13" />
+	</File>
+	<File name="..\PenjinBase\Vector2dx.h" open="0" top="0" tabpos="17">
+		<Cursor position="3066" topLine="78" />
+	</File>
+	<File name="..\PenjinBase\Vector3di.h" open="1" top="0" tabpos="29">
+		<Cursor position="1181" topLine="18" />
+	</File>
+	<File name="BaseUnit.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="208" topLine="0" />
+	</File>
+	<File name="BaseUnit.h" open="1" top="0" tabpos="4">
+		<Cursor position="254" topLine="0" />
+	</File>
+	<File name="Beam.cpp" open="1" top="0" tabpos="15">
+		<Cursor position="2405" topLine="12" />
+	</File>
+	<File name="Beam.h" open="1" top="0" tabpos="14">
+		<Cursor position="492" topLine="0" />
+	</File>
+	<File name="Camera.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="279" topLine="0" />
+	</File>
+	<File name="Camera.h" open="1" top="0" tabpos="13">
+		<Cursor position="562" topLine="3" />
+	</File>
+	<File name="CollisionMap.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="CollisionMap.h" open="1" top="0" tabpos="25">
+		<Cursor position="1693" topLine="0" />
+	</File>
+	<File name="Container.cpp" open="1" top="0" tabpos="26">
+		<Cursor position="2143" topLine="0" />
+	</File>
+	<File name="Container.h" open="1" top="0" tabpos="17">
+		<Cursor position="183" topLine="0" />
+	</File>
+	<File name="EffectSystem.cpp" open="1" top="0" tabpos="33">
+		<Cursor position="3086" topLine="12" />
+	</File>
+	<File name="EffectSystem.h" open="1" top="0" tabpos="32">
+		<Cursor position="1004" topLine="0" />
+	</File>
+	<File name="Enemy.cpp" open="1" top="0" tabpos="18">
+		<Cursor position="4678" topLine="0" />
+	</File>
+	<File name="Enemy.h" open="1" top="0" tabpos="19">
+		<Cursor position="155" topLine="0" />
+	</File>
+	<File name="GameManager.cpp" open="1" top="1" tabpos="24">
+		<Cursor position="1142" topLine="33" />
+	</File>
+	<File name="GameManager.h" open="1" top="0" tabpos="23">
+		<Cursor position="3296" topLine="90" />
+	</File>
+	<File name="Hero.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="1169" topLine="20" />
+	</File>
+	<File name="Hero.h" open="1" top="0" tabpos="27">
+		<Cursor position="514" topLine="0" />
+	</File>
+	<File name="HitRegion.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="2734" topLine="0" />
+	</File>
+	<File name="HitRegion.h" open="1" top="0" tabpos="1">
+		<Cursor position="1880" topLine="21" />
+	</File>
+	<File name="Hud.cpp" open="1" top="0" tabpos="37">
+		<Cursor position="901" topLine="9" />
+	</File>
+	<File name="Hud.h" open="1" top="0" tabpos="36">
+		<Cursor position="684" topLine="13" />
+	</File>
+	<File name="Input.cpp" open="1" top="0" tabpos="40">
+		<Cursor position="665" topLine="10" />
+	</File>
+	<File name="Input.h" open="1" top="0" tabpos="39">
+		<Cursor position="411" topLine="0" />
+	</File>
+	<File name="Item.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="417" topLine="0" />
+	</File>
+	<File name="Item.h" open="1" top="0" tabpos="20">
+		<Cursor position="119" topLine="0" />
+	</File>
+	<File name="MyGame.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="295" topLine="0" />
+	</File>
+	<File name="MyGame.h" open="0" top="0" tabpos="13">
+		<Cursor position="247" topLine="0" />
+	</File>
+	<File name="SoundSystem.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="1772" topLine="0" />
+	</File>
+	<File name="SoundSystem.h" open="1" top="0" tabpos="16">
+		<Cursor position="685" topLine="16" />
+	</File>
+	<File name="StateCredits.cpp" open="1" top="0" tabpos="34">
+		<Cursor position="1123" topLine="31" />
+	</File>
+	<File name="StateCredits.h" open="1" top="0" tabpos="12">
+		<Cursor position="209" topLine="0" />
+	</File>
+	<File name="StateLevel.cpp" open="1" top="0" tabpos="22">
+		<Cursor position="1442" topLine="42" />
+	</File>
+	<File name="StateLevel.h" open="1" top="0" tabpos="21">
+		<Cursor position="633" topLine="1" />
+	</File>
+	<File name="StateStory.cpp" open="1" top="0" tabpos="35">
+		<Cursor position="949" topLine="17" />
+	</File>
+	<File name="StateStory.h" open="1" top="0" tabpos="11">
+		<Cursor position="199" topLine="0" />
+	</File>
+	<File name="StateTitle.cpp" open="1" top="0" tabpos="28">
+		<Cursor position="2186" topLine="66" />
+	</File>
+	<File name="StateTitle.h" open="1" top="0" tabpos="10">
+		<Cursor position="172" topLine="0" />
+	</File>
+	<File name="TextBox.cpp" open="0" top="0" tabpos="15">
+		<Cursor position="171" topLine="12" />
+	</File>
+	<File name="TextBox.h" open="1" top="0" tabpos="38">
+		<Cursor position="386" topLine="0" />
+	</File>
+	<File name="_main.cpp" open="0" top="0" tabpos="24">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="userStates.h" open="0" top="0" tabpos="23">
+		<Cursor position="728" topLine="0" />
+	</File>
+	<File name="version.h" open="0" top="0" tabpos="26">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
